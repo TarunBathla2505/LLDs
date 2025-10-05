@@ -1,0 +1,19 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.2.5">
+  <diagram name="Page-1" id="q5K1IlS7KdEW3zBfl9Yf">
+    <mxGraphModel dx="1796" dy="644" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="liD4oB8t-5-h_7dVWqSg-1" value="Design Parking Lot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="18" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="liD4oB8t-5-h_7dVWqSg-2" value="Requirements&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;How many entrances ---&amp;gt; 1&lt;/div&gt;&lt;div&gt;Types of Spot ---&amp;gt; 2wheeler, 4 wheeler&lt;/div&gt;&lt;div&gt;payment startegy ---&amp;gt; hourly or minutes&lt;/div&gt;&lt;div&gt;parking spot should be nearest to entrance&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-55" y="28" width="250" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="liD4oB8t-5-h_7dVWqSg-3" value="Objects&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Vehicle&lt;/div&gt;&lt;div&gt;Ticket&lt;/div&gt;&lt;div&gt;Entrance Gate&lt;/div&gt;&lt;div&gt;Parking Spot&lt;/div&gt;&lt;div&gt;Exit&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="28" width="100" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
